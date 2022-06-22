@@ -4,6 +4,8 @@ I am Nikith and I'm currently doing my undergraduation
 
 I post projects which i worked on which are mostly analysis and time series analysis
 
+Most recent work: Time series analysis
+
 you can contact me at 
 
 
