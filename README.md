@@ -6,7 +6,7 @@ I post projects which i worked on which are mostly analysis and time series anal
 
 Most recent work: Time series analysis
 
-contact
+contact at
 nikith112902@gmail.com
 
 <!---
