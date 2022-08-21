@@ -1,6 +1,6 @@
 Hello
 
-My name is Nikith and I'm currently doing my undergraduation at SRM Institute of Science and Technology
+My name is Nikith and I'm currently undergoing my undergraduate degree at SRM Institute of Science and Technology
 
 I use GitHub to post projects which i worked on personally which are mostly based on analysis especially business analysis
 
